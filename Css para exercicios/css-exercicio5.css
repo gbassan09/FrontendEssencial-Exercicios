@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.9rem;
+    margin: 4.2rem;
+}
+
+.partecima {
+    display: block;
+    text-align: center;
+    padding-bottom: 2.5rem;
+}
+
+.partecima h3 {
+    padding-bottom: 1.8rem;
+}
+
+img {
+    width: 30rem;
+    height: 30rem;
+}
+
+
+.partebaixo {
+    display: flex;
+}
+
+.textoimgbaixo img {
+    width: 20.5rem;
+    height: 20.5rem;
+}
+
+.textoimgbaixo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.imagemanimal3 img{
+    width: 100%;
+    height: 100%;
+}
